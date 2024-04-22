@@ -2,7 +2,7 @@
 
 👨‍💻 I'm Igor, a passionate **software engineer** currently working at Rossum
 
-🧰 I specialize in building **reliable, scalable, and performant web applications** using Python, Flask/FastAPI, Kubernetes, and AWS.
+🧰 I specialize in building **reliable, scalable and performant web applications** using Python, Flask/FastAPI, Kubernetes, and AWS.
 
 🔒 In the past, I've delved into **ethical hacking**, focusing on web and mobile apps as well as infrastructure. This experience has given me a unique perspective on security and robust application design.
 
