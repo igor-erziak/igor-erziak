@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-👨‍💻 I'm Igor, a passionate **software engineer** currently working at [Rossum](https://rossum.ai/).
+👨‍💻 I'm Igor, a passionate **software engineer** currently working at https://rossum.ai/.
 
 🧰 I specialize in building **reliable, scalable and performant web applications** using Python, Flask/FastAPI, Kubernetes, and AWS.
 
